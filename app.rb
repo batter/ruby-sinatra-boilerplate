@@ -1,4 +1,5 @@
 require 'sinatra'
+require 'rack/indifferent'
 require 'json'
 require 'haml'
 
